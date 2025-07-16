@@ -1,8 +1,10 @@
 
 Métricas de Rendimiento:
 
-- Exactitud de 97.44%
-- Precisión de 97.45%
-- Recall de 97.44%
-- F1-Score de 97.40%
-- Coeficiente de correlación de Matthews (MCC) de 0.9555
+Entrenamiento completado en 30 Número de épocas
+Exactitud: 98.29%
+Precisión: 98.29%
+Sensibilidad: 98.29%
+F1-Score: 98.28%
+Coeficiente MCC: 0.9703
+Tiempo de entrenamiento: 629.03s
