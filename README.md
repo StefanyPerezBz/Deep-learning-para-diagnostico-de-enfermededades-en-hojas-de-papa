@@ -124,4 +124,4 @@ Disponible en:
 
 1. José Andrés Farro Lagos - Universidad Nacional de Trujillo
 2. Stefany Marisel Pérez Bazán - Universidad Nacional de Trujillo
-3.   **Asesor:** Dr. Juan Pedro Santos Fernández
+3.   **Asesor:** Dr. Juan Pedro Santos Fernández - Universidad Nacional de Trujillo
