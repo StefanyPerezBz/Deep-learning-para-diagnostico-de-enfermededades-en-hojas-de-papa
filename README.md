@@ -1,6 +1,6 @@
 # Sistema de Diagnóstico de Enfermedades en Hojas de Papa con Deep Learning
 
-![Potato Disease Classification](https://www.mdpi.com/agriculture/agriculture-14-00386/article_deploy/html/images/agriculture-14-00386-g001.png)
+![Potato Disease Classification](./assets/hojas.png)
 
 ## Contexto
 
@@ -62,8 +62,8 @@ Este sistema proporciona:
 
 ## Dataset
 
-El modelo fue entrenado con el dataset:  
-[**Potato Disease Dataset**](https://www.kaggle.com/datasets/faysalmiah1721758/potato-dataset) disponible en Kaggle
+El modelo fue entrenado con el dataset público:  
+[**Potato Disease Dataset**](https://www.kaggle.com/datasets/faysalmiah1721758/potato-dataset) disponible en la plataforma Kaggle
 
 **Características del dataset**:
 
@@ -107,6 +107,8 @@ El modelo fue entrenado con el dataset:
 Disponible en:
 - Español (es)
 - Inglés (en)
+- 
+## Interfaz
 ![Interfaz de la Aplicación](./assets/interfaz.jpg)
 
 ## Resultados
