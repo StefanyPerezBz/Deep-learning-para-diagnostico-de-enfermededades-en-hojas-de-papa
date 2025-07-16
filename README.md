@@ -107,7 +107,7 @@ El modelo fue entrenado con el dataset público:
 Disponible en:
 - Español (es)
 - Inglés (en)
-- 
+
 ## Interfaz
 ![Interfaz de la Aplicación](./assets/interfaz.jpg)
 
