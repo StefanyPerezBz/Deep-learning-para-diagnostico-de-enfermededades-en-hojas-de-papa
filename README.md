@@ -85,8 +85,7 @@ Funcionalidades principales:
 
 ## 📂 Dataset
 
-El modelo fue entrenado con el dataset público:  
-[**Potato Disease Dataset**](https://www.kaggle.com/datasets/faysalmiah1721758/potato-dataset) 
+El modelo fue entrenado con el dataset público: [**Potato Disease Dataset**](https://www.kaggle.com/datasets/faysalmiah1721758/potato-dataset) 
 
 **Características**:
 
@@ -130,7 +129,7 @@ El modelo fue entrenado con el dataset público:
 ```
 ├─ datos                      # Dataset
 ├─ assets                     # Imágenes del README (hojas, interfaz)
-├─ diagnostico                # Entrenamiento (opcional)
+├─ diagnostico                # Diagnóstico de enfermedades
 ├─ graficas                   # Curva ROC, Curva de aprendizaje y Matriz de confusión
 ├─ modelos                    # Modelos (EfficientNetB0, ResNet50V2 y Xception)
 ├─ reportes                   # Reportes PDF exportados (ténico, interpretación, gráficas y entrenamientos)
