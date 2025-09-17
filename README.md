@@ -97,6 +97,14 @@ El modelo fue entrenado con el dataset público: [**Potato Disease Dataset**](ht
 - Formato: JPG
 - Resolución: Variable (redimensionado a 224×224 px)
 
+## 🗂️ Estructura del dataset
+```
+PlantVillage/
+├── Potato___Early_blight/
+├── Potato___Late_blight/
+└── Potato___healthy/
+```
+
 ## 🔬 Metodología
 
 **Preprocesamiento**:
@@ -115,15 +123,7 @@ El modelo fue entrenado con el dataset público: [**Potato Disease Dataset**](ht
    - Pérdida: categorical crossentropy
   
 ## 🎯 Interfaz
-![Interfaz de la Aplicación](./assets/interfaz.jpg)
-
-## 🗂️ Estructura del dataset
-```
-PlantVillage/
-├── Potato___Early_blight/
-├── Potato___Late_blight/
-└── Potato___healthy/
-```
+![Interfaz de la Aplicación](./assets/inicio.jpg)
 
 ## ⚠️ Requisitos para ejecutar
 
