@@ -24,7 +24,7 @@ Con este sistema se logra:
 - ✅ Recomendaciones específicas por enfermedad
 - ✅ Reducción del uso innecesario de pesticidas
 
-## 🖥️ Interfaz Principal (Lo que verás al ejecutar la app)
+## 🖥️ Interfaz
 Una aplicación web interactiva construida con Streamlit, que incluye:
 - Barra lateral izquierda con controles de configuración
 - Área principal para visualizar resultados, gráficos y reportes
@@ -57,7 +57,7 @@ Funcionalidades principales:
 
 ### Modelos de Deep Learning
 
-- **EfficientNetB0**
+- **CNN Personalizada**
 - **ResNet50V2**
 - **Xception**
 - **MobileNetV2**
@@ -117,26 +117,12 @@ El modelo fue entrenado con el dataset público: [**Potato Disease Dataset**](ht
 ## 🎯 Interfaz
 ![Interfaz de la Aplicación](./assets/interfaz.jpg)
 
-## 📈 Resultados obtenidos
-
-| Modelo         | Exactitud | Precisión | Recall | F1-Score | MCC    |
-| -------------- | --------- | --------- | ------ | -------- | ------ |
-| EfficientNetB0 | 92.29%    | 98.29%    | 98.29% | 98.28%   | 97.03% |
-| ResNet50V2     | 98.58%    | 98.57%    | 98.58% | 98.57%   | 97.53% |
-| Xception       | 96.01%    | 96.15%    | 96.01% | 95.96%   | 93.08% |
-
-## 🗂️ Estructura del proyecto
+## 🗂️ Estructura del dataset
 ```
-├─ datos                      # Dataset
-├─ assets                     # Imágenes del README (hojas, interfaz)
-├─ diagnostico                # Diagnóstico de enfermedades
-├─ graficas                   # Curva ROC, Curva de aprendizaje y Matriz de confusión
-├─ modelos                    # Modelos (EfficientNetB0, ResNet50V2 y Xception)
-├─ reportes                   # Reportes PDF exportados (ténico, interpretación, gráficas y entrenamientos)
-├─ resultados                 # Resultados de modelos, Curvas ROC, resumen y comparación de modelos
-├─ scripts                    # Interfaz Streamlit
-├─ assets/                    # Imágenes del README (hojas, interfaz)
-└─ README.md
+PlantVillage/
+├── Potato___Early_blight/
+├── Potato___Late_blight/
+└── Potato___healthy/
 ```
 
 ## ⚠️ Requisitos para ejecutar
@@ -155,3 +141,4 @@ Nota: Proyecto desarrollado con fines academicos y de investigación.
 1. José Andrés Farro Lagos - Universidad Nacional de Trujillo
 2. Stefany Marisel Pérez Bazán - Universidad Nacional de Trujillo
 3.   **Asesor:** Dr. Juan Pedro Santos Fernández - Universidad Nacional de Trujillo
+
